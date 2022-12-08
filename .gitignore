@@ -103,12 +103,14 @@ celerybeat.pid
 
 # Environments
 .env
+insta/
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +129,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
